@@ -1,27 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8edbc3e5-01b7-4f86-b47b-0b2b3d5e67f8" name="Changes" comment="" />
+    <list default="true" id="8edbc3e5-01b7-4f86-b47b-0b2b3d5e67f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/src/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Methods/Addnum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Methods/Default.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Methods/DefaultMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Methods/Method2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Methods/Methods1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Methods/Modifierstest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Methods/Sum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/src/Addnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Methods/src/Addnum.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2V4CC4dFOTNBWbzQhk5vJIXMs6P" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Amitesh/Desktop/JavaCode/Codes"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Amitesh/Desktop/JavaCode/Codes&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

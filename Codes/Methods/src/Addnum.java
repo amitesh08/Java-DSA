@@ -1,7 +1,7 @@
 public class Addnum {
     public static void main(String[] args) {
-        int r=sum(24,34);
-        System.out.println("the sum is "+r);
+        int res=sum(24,34);
+        System.out.println("the sum is "+res);
 
         /*
         //public method
