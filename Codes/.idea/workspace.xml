@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8edbc3e5-01b7-4f86-b47b-0b2b3d5e67f8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Arrays/src/SumEvenOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/src/SumEvenOdd.java" afterDir="false" />
+    <list default="true" id="8edbc3e5-01b7-4f86-b47b-0b2b3d5e67f8" name="Changes" comment="add comments to questions">
+      <change afterPath="$PROJECT_DIR$/Arrays/src/SortedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Arrays/src/SortedArray.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -47,7 +51,20 @@
       <option name="presentableId" value="Default" />
       <updated>1694085836761</updated>
     </task>
+    <task id="LOCAL-00001" summary="add comments to questions">
+      <option name="closed" value="true" />
+      <created>1694689165222</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694689165222</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add comments to questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="add comments to questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -63,21 +80,40 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/Arrays/src/Reverseusing2pointer.java</url>
-          <line>13</line>
-          <properties class="Reverseusing2pointer" method="reverse">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/Arrays/src/Reverseusing2pointer.java</url>
           <line>23</line>
           <properties class="Reverseusing2pointer" method="swap">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Arrays/src/Reverseusing2pointer.java</url>
+          <line>13</line>
+          <properties class="Reverseusing2pointer" method="reverse">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Arrays/src/SortedArray.java</url>
+          <line>20</line>
+          <properties class="SortedArray" method="isSorted">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/src/SortedArray.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/src/SortedArray.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
