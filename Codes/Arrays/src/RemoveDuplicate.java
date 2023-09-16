@@ -6,7 +6,7 @@ public class RemoveDuplicate {
         System.out.println("The array is :"+ Arrays.toString(arr));
 
         //after removing duplicate array number from the number
-        int ans = remove(arr);
+        int ans = remove(arr);   //ans will tell you about how many unique elements are in the array
         System.out.println("your final array is "+Arrays.toString(arr));
 
     }
