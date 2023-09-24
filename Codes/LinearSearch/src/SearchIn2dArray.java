@@ -14,7 +14,7 @@ public class SearchIn2dArray {
 
         int target = 12;
         int[] ans = search(arr2d, target);
-        System.out.println("the indexat which element present at : "+Arrays.toString(ans));
+        System.out.println("the index at which element present at : "+Arrays.toString(ans));
 
     }
     static int[] search(int[][] arr2d, int target) {
