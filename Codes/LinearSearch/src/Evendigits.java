@@ -37,7 +37,7 @@ public class Evendigits {
     // count number of digits in a number
     static int digits(int num) {
 
-        if (num < 0) {
+        if (num < 0) {      //spplying conditons
             num = num * -1;
         }
 
