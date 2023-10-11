@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8edbc3e5-01b7-4f86-b47b-0b2b3d5e67f8" name="Changes" comment="add comments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BinarySearch/src/BinarySearch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinarySearch/src/Search.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BinarySearch/BinarySearch.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +76,17 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add comments to questions" />
