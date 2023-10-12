@@ -19,7 +19,9 @@ public class SecondLargest {
             if (arr[i]>max) {
                 smax=max;
                 max = arr[i];
-
+            }
+            if (arr[i]>smax && arr[i]<max) {
+                smax = arr[i];
             }
         }
         System.out.println("maximum number is "+max);
